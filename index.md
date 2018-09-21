@@ -4,9 +4,9 @@ You can use the [editor on GitHub](https://github.com/MaliciousPizza/MaliciousBl
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Malicious Pizza
+As someone who is lactose intolerant I get sick when I eat dairy. hense the name Malicious pizza. 
 
 ```markdown
 Syntax highlighted code block
