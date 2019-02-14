@@ -7,6 +7,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Malicious Pizza
 As someone who is lactose intolerant I get sick when I eat dairy. hense the name Malicious pizza. 
+### This is malicious... I mean Delicious!
 
 ```markdown
 Syntax highlighted code block
